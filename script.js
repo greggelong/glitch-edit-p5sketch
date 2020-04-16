@@ -1,11 +1,7 @@
-/* If you're feeling fancy you can add interactivity 
-    to your site with Javascript */
+/* using the glitch editor to make a sketch and put it directly on git hub */
 
-// prints "hi" in the browser's dev tools console
-for (let i = 0; i<20 ; i++){
-  console.log(i);
-}
-console.log("hello");
+// sketch p5js cdn linked in index
+ 
 
 let x = 20; // set variables
 let y = 20;
