@@ -2,4 +2,7 @@
     to your site with Javascript */
 
 // prints "hi" in the browser's dev tools console
-console.log("hi");
+for (let i = 0; i<20 ; i++){
+  console.log(i);
+}
+console.log("hello");
